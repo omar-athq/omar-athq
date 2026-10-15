@@ -8,7 +8,6 @@ ServiceNow: I have a deep understanding of ServiceNow's capabilities and love
 - 🌱 I'm learning and deep diving into:
 
 * **Python:** Delving into its versatile applications in data analysis, automation, and backend development.
-* **Git:** Mastering version control to collaborate seamlessly on projects and manage code effectively.
 * **Networking:** Building a strong foundation in networking concepts and protocols to understand how systems communicate.
 * **JavaScript:** Expanding my frontend development skills to create engaging and interactive web experiences.
 * **ServiceNow:** Deepening my expertise in this platform to streamline workflows, automate processes, and enhance user experiences.
